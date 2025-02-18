@@ -12,6 +12,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>test-webgl</ToolCommandName>
+    <PackageProjectUrl>https://github.com/ezpipeline/test-webgl</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
